@@ -1,0 +1,4 @@
+name = "example"
+uuid = "f2cbfeaa-21ae-4cf8-8768-08347d117519"
+authors = ["Johannes Blaschke <jpblaschke@lbl.gov>"]
+version = "0.1.0"
